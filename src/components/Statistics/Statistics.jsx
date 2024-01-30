@@ -1,4 +1,3 @@
-// import React, { Component } from "react";
 
 const Statistics = ({ good, neutral, bad, total, positivePercentage }) => { 
   return (
